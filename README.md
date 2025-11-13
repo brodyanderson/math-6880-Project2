@@ -1,5 +1,5 @@
 Math 6880: Mathematics of Data Science  
-Project2  
+Project 2  
 Fall 2025
 
 ### Open the Jupyter notebook project2.ipynb in Google colab.
